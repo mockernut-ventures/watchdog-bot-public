@@ -8,4 +8,5 @@ Watchdog automatically moderates content, answers FAQs, and manages your communi
 
 ✅ Smart responses to questions
 
-# 👉 Get Started: https://watchdog.chat
+# 👉 Get Started
+https://watchdog.chat
